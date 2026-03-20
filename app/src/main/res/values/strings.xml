@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PokerDice</string>
+
+    <string name="about_button_wikipedia">Wikipedia</string>
+    <string name="about_button_contact">Contact Group</string>
+    <string name="about_email">Chelas Poker Dice App</string>
+    <string name="about_title">About</string>
+    <string name="about_dev">Developed by:</string>
+    <string name="about_explanation">Game Explanation</string>
+    <string name="about_contact">Contact Group</string>
+    <string name="about_error">Error:</string>
+    <string name="title_welcome">Welcome, %1$s!</string>
+</resources>
